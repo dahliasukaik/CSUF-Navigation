@@ -1,0 +1,58 @@
+# Node modules
+node_modules/
+
+# Build output directories
+build/
+dist/
+
+# Cache and temporary files
+.cache/
+.temp/
+.tmp/
+coverage/
+.nyc_output/
+.jest/
+.jest_cache/
+.jest_output/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.swp
+*~
+
+# MacOS system files
+._*
+
+# Testing
+coverage/
+
+
+# dependencies
+
+/.pnp
+.pnp.js
+
